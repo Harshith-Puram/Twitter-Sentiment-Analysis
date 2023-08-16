@@ -3,7 +3,7 @@
 Welcome to the Twitter Sentiment Analysis repository! This project is dedicated to harnessing the power of natural language processing and machine learning to analyze the sentiment of tweets. By leveraging advanced techniques, we aim to classify tweets as positive, negative, or neutral based on their underlying sentiment.
 
 ## User Interface
-![HOME PAGE](https://drive.google.com/file/d/1RxuJaP02c7w8XnNZb-KKm9z_gKfWXBtT/view?usp=sharing)
+![HOME PAGE](https://github.com/Harshith-Puram/Twitter-Sentiment-Analysis/blob/main/sentiment_analysis.png)
 
 ## Project Overview
 
