@@ -104,5 +104,3 @@ This machine-learning marvel was brought to life by the collaborative efforts of
 ## Contact
 
 For inquiries, issues, or suggestions, please feel free to reach out via harshithppuram@gmail.com or druvikan@gmail.com.
-
-We extend our gratitude for your interest in the Crop Prediction Model project. It is our hope that this model proves to be an invaluable asset for agricultural decision-making.
