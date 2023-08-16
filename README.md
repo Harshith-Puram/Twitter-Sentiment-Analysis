@@ -2,6 +2,9 @@
 
 Welcome to the Twitter Sentiment Analysis repository! This project is dedicated to harnessing the power of natural language processing and machine learning to analyze the sentiment of tweets. By leveraging advanced techniques, we aim to classify tweets as positive, negative, or neutral based on their underlying sentiment.
 
+## User Interface
+![HOME PAGE](https://drive.google.com/file/d/1RxuJaP02c7w8XnNZb-KKm9z_gKfWXBtT/view?usp=sharing)
+
 ## Project Overview
 
 In a world where social media platforms are teeming with opinions and emotions, understanding the sentiment behind tweets can provide valuable insights. Our Twitter Sentiment Analysis project utilizes cutting-edge techniques to decipher the emotional tone of tweets, helping individuals and businesses gain a deeper understanding of public sentiment.
@@ -67,7 +70,7 @@ Interacting with our Twitter Sentiment Analysis project is straightforward. Foll
 4. Run the Flask application using the command:
    
 ```
- python app.py.
+ python app.py
 ```
 
 5. Access the model's user interface by opening a web browser and navigating to `http://localhost:5000`.
