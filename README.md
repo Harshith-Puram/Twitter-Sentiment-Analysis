@@ -89,10 +89,10 @@ Contributions to enhance and extend the capabilities of the Crop Prediction Mode
 
 ## Credits
 
-This machine-learning marvel was brought to life by the collaborative efforts of [Druvika Nuthalapati](https://github.com/druvikan) and [Harshith Puram](https://github.com/Harshith-Puram), fueled by the demand for accurate and data-driven sentiment analysis of social media content.
+This machine-learning marvel was brought to life by the collaborative efforts of [Harshith Puram](https://github.com/Harshith-Puram) and [Druvika Nuthalapati](https://github.com/druvikan), fueled by the demand for accurate and data-driven sentiment analysis of social media content.
 
 ## Contact
 
-For inquiries, issues, or suggestions, please feel free to reach out via druvikan@gmail.com or harshithppuram@gmail.com.
+For inquiries, issues, or suggestions, please feel free to reach out via harshithppuram@gmail.com or druvikan@gmail.com.
 
 We extend our gratitude for your interest in the Crop Prediction Model project. It is our hope that this model proves to be an invaluable asset for agricultural decision-making.
